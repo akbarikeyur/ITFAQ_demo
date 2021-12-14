@@ -10,7 +10,6 @@ target 'ITFAQ' do
   pod 'SDWebImage'
   pod 'Toast-Swift'
   pod 'SKPhotoBrowser'
-  pod 'ExpandableLabel'
   pod 'lottie-ios'
   pod 'SKPhotoBrowser'
 end
